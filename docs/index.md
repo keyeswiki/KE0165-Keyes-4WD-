@@ -1,12 +1,24 @@
 <center> <font size=48 face="微软雅黑"> 4WD蓝牙多功能智能车 </font> </center>
 
-# 简介 
+
+# 资料下载
+
+[百度云下载](https://pan.baidu.com/s/1UrpxeiqYukAYB8UOSnjZFA) 
+
+
+提取码：s85s
+
+[Gitee下载](https://gitee.com/keyeswiki/KE0165-Keyes-4WD/repository/archive/master.zip)
+
+# 产品介绍
+
+## 简介 
 
 &ensp;&ensp;4WD蓝牙多功能智能车,是基于ARDUINO的开源机器人，可以让孩子们轻松学习编程,并且获得有关电子，机械，控制逻辑和计算机科学的实践知识。
 
 &ensp;&ensp;他的安装和接线也十分简单，组件都通过螺钉和铜柱连接，只需要几个简单的步骤就可以组装完成。他提供了十多个编程的课程项目，由简单到复杂，一步一步，学习怎么去编写机器人能”听”懂的语言。
 
-# 特点 
+## 特点 
 
 &ensp;&ensp;1、功能多多：避障功能，跟随功能，红外遥控，蓝牙控制，循迹功能，显示图案等。   
 
@@ -20,7 +32,7 @@
 
 &ensp;&ensp;6、学习基础编程：使用Arduino IDE的C语言编程，可以接触底层代码。
 
-# 参数 
+## 参数 
 
 工   作   电   压：DC5V
 
@@ -34,7 +46,7 @@ DC座输入电压：7-12V
 
 电机驱动形式：双路H桥驱动
 
-超声波感应角度：\<15度
+超声波感应角度：<15度
 
 超声波探测距离：2cm-400cm
 
@@ -46,7 +58,7 @@ DC座输入电压：7-12V
 
 
 
-# 清单 
+## 清单 
 
 &ensp;&ensp;当收到这个智能车套件的时候，首先看到是一个包装精美的外盒，每个配件被安全且有序的装在外盒里面的小盒子里，先来清点一下：
 
@@ -54,8 +66,8 @@ DC座输入电压：7-12V
 
 |No|Product Name|Quantity|Picture|
 |-|-|:-:|:-:|
-|1|keyes UNO R3 for arduino 开发板|1|![](media/41febbb8cfc3ae5364b49000dcdb8ceb.png)|
-|2|4WD车前面LED屏亚克力挡板 73*44MM 黑色半透明 T=3MM 环保|1|![](media/b296d5f8d848885351509a99f1cfa32c.png)|
+|1|keyes UNO R3 开发板|1|![](media/41febbb8cfc3ae5364b49000dcdb8ceb.png)|
+|2|4WD车前面LED屏亚克力挡板 |1|![](media/b296d5f8d848885351509a99f1cfa32c.png)|
 |3|Keyes brick L298P 电机驱动扩展板 V1|1|![](media/44633c7aaa094849aef1c22e768c21c0.png)|
 |4|Keyes Bluetooth-4.0 蓝牙4.0 V2|1|![](media/35f108a325e0c7f2dc457f625096bf04.png)|
 |5|HC-SR04超声波传感器|1|![](media/a82e0b04858293607bc584e695df960a.png)|
@@ -66,12 +78,12 @@ DC座输入电压：7-12V
 |10|Keyes connectors 循迹传感器|1|![](media/6780dd9ed614a63a3862f503e39b3b7e.png)|
 |11|keyes brick 红外接收传感器|1|![](media/3068f78d805d90bcf552264d90bc9cdc.png)|
 |12|云台支架（黑色）配套 固定孔3MM|1|![](media/d58d578424a7bd7edbe7def2b12f207a.png)|
-|13|SG90 9G 23*12.2*29mm 蓝色 辉盛 180度 环保|1|![](media/631f81ec352445decbc960cb0f2ffb71.png)|
+|13|SG90 9G 舵机 |1|![](media/631f81ec352445decbc960cb0f2ffb71.png)|
 |14|18650双节电池盒|1|![](./media/cdd7772f9f8d57b8ecd4343ee260af10.png)|
 |15|6节5号电池盒|1|![](media/555d22894a55ad817d897c027bb1354f.png)|
-|16|keyestudio 8x16 LED灯板 黑色 环保|1|![](media/4b3b276b9242a386ec26a38cc48b6401.png)|
-|17|23*15*5MM 间距9MM 铝 氧化黑色|1|![](media/6c6f63cac8bdc4a2703ce62a848f94e7.png)|
-|18|直径：43mm 宽度：19mm 孔径：3mm D型孔 ABS塑料+橡胶 黄色|4|![](media/795653091dfcdb8999de6dcdfedef9d4.png)|
+|16|keyestudio 8x16 LED灯板 |1|![](media/4b3b276b9242a386ec26a38cc48b6401.png)|
+|17|23*15*5MM 间距9MM 铝固定件 |1|![](media/6c6f63cac8bdc4a2703ce62a848f94e7.png)|
+|18|3mm D型孔 轮胎 |4|![](media/795653091dfcdb8999de6dcdfedef9d4.png)|
 |19|双通M3*10MM|8|![](media/0f39bf5bdd725664f1eb9800bac036b9.jpg)|
 |20|双通M3*40MM|6|![](media/0f39bf5bdd725664f1eb9800bac036b9.jpg)|
 |21|M3*30MM 圆头 十字|8|![](media/2f1c37b57da24c5dca9270e2034bbf2b.png)|
@@ -81,10 +93,10 @@ DC座输入电压：7-12V
 |25|M2*8MM 圆头 十字|10|![](media/2f1c37b57da24c5dca9270e2034bbf2b.png)|
 |26|M2 镀镍|10|![](media/59e81b723727849fb41293d133d9ed0c.png)|
 |27|M3*10MM 平头|3|![](media/56ce68860a93c9c09aea792ebc8a22b2.png)|
-|28|4.5V 200转/分 单轴减速箱+双头轴马达+250MM PH2.0mm-2P线材 环保|4|![](media/694190eedf4d6ecbf3e32c99ef08fee0.png)|
-|29|5P XH2.54转PH2.0 26AWG 线长200MM 反向 环保|1|![](media/629c330817b611385e9bf42cd92477fb.png)|
+|28|4.5V 200转/分 马达|4|![](media/694190eedf4d6ecbf3e32c99ef08fee0.png)|
+|29|5P XH2.54转PH2.0 26AWG 线长200MM |1|![](media/629c330817b611385e9bf42cd92477fb.png)|
 |30|HX-2.54 3P 双头 26AWG 黑红白 100mm|1|![](media/b37001f0faf4c560aa90cde2f5847b55.png)|
-|31|HX-2.54 4P 双头 26AWG 黑棕白红 200mm 反向|1|![](media/87744a43ad43910f7707b89103d625c3.png)|
+|31|HX-2.54 4P 双头 26AWG 黑棕白红 200mm |1|![](media/87744a43ad43910f7707b89103d625c3.png)|
 |32|HX-2.54 4P 转杜邦线母单 26AWG 黑红白棕 200mm|1|![](media/b289bdda58092c91ab7bbcff4eac9aa1.png)|
 |33|JMP-1 17键86*40*6.5MM|1|![](./media/866f3d85454db49eccb696c1e82a930d.png)|
 |34|USB线AM/BM 透明蓝 OD:5.0 L=50cm|1|![](media/cc34fb5df395dbef35dc9104522e767c.png)|
@@ -92,205 +104,7 @@ DC座输入电压：7-12V
 |36|黑色 扎带 3*100MM|10|![](media/96eb4a4646c8046640e703028eea0a03.png)|
 
 
-
-# 相关资料链接 
-
-[下载链接:]( https://pan.baidu.com/s/1UrpxeiqYukAYB8UOSnjZFA) 
-https://pan.baidu.com/s/1UrpxeiqYukAYB8UOSnjZFA
-
-提取码：s85s
-
-
-
-# 安装
-
-## &ensp;1、电机安装
-
-&ensp;**安装所需零件**
-
-![](media/033d18970bf304102206e927303d0a2b.jpg)
-
-安装（注意电机应对号入座在黄色框内）
-
-![](media/602a350ddf20db8114d02fc2a2bca2ed.png)
-
-完成
-
-![](media/33f96206ee446acb0a0ab2aee573ff11.png)
-
-## &ensp; 2、车轮与巡线传感器安装
-
-**安装所需零件**
-
-![](media/beba8d7cf82259d10dd2118c34acbdd4.jpg)
-
-分步安装1
-
-![](media/cea4368334db0971db4c3a62794c79cc.jpg)
-
-分步安装2
-
-![](media/169fe81fa215fc152c9f6b7758d6f155.png)
-
-循迹传感器插线示意图
-
-![](media/a86968c39528f0de9920949def4a422c.jpg)
-
-完成
-
-![](media/f3d907c81fa9cc1d1e1a8c068ce9e7b1.png)
-
-## &ensp; 3、点阵安装
-
-**安装所需零件**
-
-![](media/7fa4adc60a817a664a375db3c3971d22.jpg)
-
-安装
-
-![](media/261dc8b0d9786b05a9ec8ae366db8ea8.png)
-
-插线
-
-![](media/472218be5aae7b05a06dcd603bc883a5.jpg)
-
-完成
-
-![](media/ae322f7c241de633de576f357e10f807.png)
-
-## &ensp; 4、M3x10铜柱安装
-
-**安装所需零件**
-
-![](media/576d75f7d5f0cf559651be5d0941c83d.jpg)
-
-安装<h1 ![](media/63fb70991411b6e2021e838ae0927f2a.jpg)
-
-完成
-
-![](media/1cd17945211b3945621191807858feed.jpg)
-
-## &ensp; 5、电池盒与红外接收安装
-
-**安装所需零件**
-
-![](media/144e45fd96314667b367edb74a6636e0.jpg)
-
-安装
-
-![](media/a810f81f793505bb2f1049e568836161.jpg)
-
-完成
-
-![](media/140f7d35c29af6bfd9e66dc9bd3c80b6.jpg)
-
-## &ensp; 6、扩展板、UNO板与蓝牙安装
-
-**安装所需零件**
-
-![](media/e70a4defd4a953bd38f978f192ebbcea.jpg)
-
-安装
-
-![](media/8e7674de85c69148eee9389e6bc7082c.jpeg)
-
-完成
-
-![](media/4917e5af2a750e4f95b744a89beb0078.jpeg)
-
-## &ensp; 7、舵机安装
-
-**安装所需零件**
-
-![](media/af3f442b6a5b6474b7c58abdbd9fbd76.jpeg)
-
-分步安装1
-
-![](media/8d21ce5e8a80355a126fc793d8a46da7.jpg)
-
-分步安装2
-
-![](media/be4024933f89fc0fdd0be23faf096237.jpg)
-
-完成
-
-![](media/d8bf2dd41c971035e3dfb0fe0942849a.png)
-
-## &ensp; 8、舵机固定
-
-**安装所需零件**
-
-![](media/799e49bb5f613bc6e5de030ab398ce25.jpg)
-
-安装
-
-![](media/1a12f252ed2eca02259c79cc4d146511.jpg)
-
-完成
-
-![](media/f29b62cdb884798374bd97a5fd4e09ee.jpeg)
-
-## &ensp; 9、整车安装
-
-**安装所需零件**
-
-![](media/373d962abfec62dbd6fe1a6dd445758c.jpg)
-
-安装（安装前先穿线）
-
-![](media/f77a7abbc95847d503b52e5abaa92337.jpg)
-
-完成
-
-![](media/3861efff7ab9f26d34a6c65c5a1ed78e.jpg)
-
-## &ensp; 10、线材连接
-
-LED屏接线图
-
-![](media/713f2c0e3ecdce2e060ccace0bdc9a63.jpg)
-
-循迹传感器接线图
-
-![](media/cf3d70cc2178aa1c35d395332ae3036e.jpg)
-
-超声波接线图
-
-![](media/8463d7797cd7a0c7d897cecd69326a5b.jpg)
-
-舵机接线图
-
-![](media/8b5f578b92885b39325ce2830d89efd9.jpg)
-
-红外传感器接线图
-
-![](media/ea701baf79cb8964f0f38855d0a08817.jpg)
-
-M1位电机接线图
-
-![](media/ec1611e293d23b02141e9ed3fd715ef4.jpg)
-
-M2位电机接线图
-
-![](media/688cab8f6b16307c443512c3edb6a98c.jpg)
-
-M3位电机接线图
-
-![](media/f815ca91b0bb8e19acabe361c6c403c1.jpg)
-
-M4位电机接线图
-
-![](media/e6519ca0776fc62946fe81aef9f6fbc3.jpeg)
-
-电池盒接线图
-
-![](media/1aed815d05c977d43ff79db278479adc.jpg)
-
-完成渲染效果图
-
-![](media/7d4ed81db248c695e58569ce8ef9386d.jpeg)
-
-# Arduino
+# Arduino下载以及驱动安装
 
 ## &ensp; 1、Arduino IDE安装
 
@@ -430,7 +244,199 @@ M4位电机接线图
 
 &ensp;&ensp;程序上传成功，板载的LED灯亮一秒钟，灭一秒钟，恭喜你的第一个程序完成了！
 
-# 教程
+# 智能车组装
+
+## &ensp;1、电机安装
+
+&ensp;**安装所需零件**
+
+![](media/033d18970bf304102206e927303d0a2b.jpg)
+
+安装（注意电机应对号入座在黄色框内）
+
+![](media/602a350ddf20db8114d02fc2a2bca2ed.png)
+
+完成
+
+![](media/33f96206ee446acb0a0ab2aee573ff11.png)
+
+## &ensp; 2、车轮与巡线传感器安装
+
+**安装所需零件**
+
+![](media/beba8d7cf82259d10dd2118c34acbdd4.jpg)
+
+分步安装1
+
+![](media/cea4368334db0971db4c3a62794c79cc.jpg)
+
+分步安装2
+
+![](media/169fe81fa215fc152c9f6b7758d6f155.png)
+
+循迹传感器插线示意图
+
+![](media/a86968c39528f0de9920949def4a422c.jpg)
+
+完成
+
+![](media/f3d907c81fa9cc1d1e1a8c068ce9e7b1.png)
+
+## &ensp; 3、点阵安装
+
+**安装所需零件**
+
+![](media/7fa4adc60a817a664a375db3c3971d22.jpg)
+
+安装
+
+![](media/261dc8b0d9786b05a9ec8ae366db8ea8.png)
+
+插线
+
+![](media/472218be5aae7b05a06dcd603bc883a5.jpg)
+
+完成
+
+![](media/ae322f7c241de633de576f357e10f807.png)
+
+## &ensp; 4、M3x10铜柱安装
+
+**安装所需零件**
+
+![](media/576d75f7d5f0cf559651be5d0941c83d.jpg)
+
+安装
+
+![](media/63fb70991411b6e2021e838ae0927f2a.jpg)
+
+完成
+
+![](media/1cd17945211b3945621191807858feed.jpg)
+
+## &ensp; 5、电池盒与红外接收安装
+
+**安装所需零件**
+
+![](media/144e45fd96314667b367edb74a6636e0.jpg)
+
+安装
+
+![](media/a810f81f793505bb2f1049e568836161.jpg)
+
+完成
+
+![](media/140f7d35c29af6bfd9e66dc9bd3c80b6.jpg)
+
+## &ensp; 6、扩展板、UNO板与蓝牙安装
+
+**安装所需零件**
+
+![](media/e70a4defd4a953bd38f978f192ebbcea.jpg)
+
+安装
+
+![](media/8e7674de85c69148eee9389e6bc7082c.jpeg)
+
+完成
+
+![](media/4917e5af2a750e4f95b744a89beb0078.jpeg)
+
+## &ensp; 7、舵机安装
+
+**安装所需零件**
+
+![](media/af3f442b6a5b6474b7c58abdbd9fbd76.jpeg)
+
+分步安装1
+
+![](media/8d21ce5e8a80355a126fc793d8a46da7.jpg)
+
+分步安装2
+
+![](media/be4024933f89fc0fdd0be23faf096237.jpg)
+
+完成
+
+![](media/d8bf2dd41c971035e3dfb0fe0942849a.png)
+
+## &ensp; 8、舵机固定
+
+**安装所需零件**
+
+![](media/799e49bb5f613bc6e5de030ab398ce25.jpg)
+
+安装
+
+![](media/1a12f252ed2eca02259c79cc4d146511.jpg)
+
+完成
+
+![](media/f29b62cdb884798374bd97a5fd4e09ee.jpeg)
+
+## &ensp; 9、整车安装
+
+**安装所需零件**
+
+![](media/373d962abfec62dbd6fe1a6dd445758c.jpg)
+
+安装（安装前先穿线）
+
+![](media/f77a7abbc95847d503b52e5abaa92337.jpg)
+
+完成
+
+![](media/3861efff7ab9f26d34a6c65c5a1ed78e.jpg)
+
+## &ensp; 10、线材连接
+
+LED屏接线图
+
+![](media/713f2c0e3ecdce2e060ccace0bdc9a63.jpg)
+
+循迹传感器接线图
+
+![](media/cf3d70cc2178aa1c35d395332ae3036e.jpg)
+
+超声波接线图
+
+![](media/8463d7797cd7a0c7d897cecd69326a5b.jpg)
+
+舵机接线图
+
+![](media/8b5f578b92885b39325ce2830d89efd9.jpg)
+
+红外传感器接线图
+
+![](media/ea701baf79cb8964f0f38855d0a08817.jpg)
+
+M1位电机接线图
+
+![](media/ec1611e293d23b02141e9ed3fd715ef4.jpg)
+
+M2位电机接线图
+
+![](media/688cab8f6b16307c443512c3edb6a98c.jpg)
+
+M3位电机接线图
+
+![](media/f815ca91b0bb8e19acabe361c6c403c1.jpg)
+
+M4位电机接线图
+
+![](media/e6519ca0776fc62946fe81aef9f6fbc3.jpeg)
+
+电池盒接线图
+
+![](media/1aed815d05c977d43ff79db278479adc.jpg)
+
+完成渲染效果图
+
+![](media/7d4ed81db248c695e58569ce8ef9386d.jpeg)
+
+
+
+# 项目课程
 
 &ensp;&ensp;好了，所有的东西都已经准备完毕，我们正式开始4WD蓝牙多功能小车的编程项目。前面我们从简单的传感器和模块开始，循序渐进完成模块传感器的测试项目，现在再来完成几个不同类型的机器人，最后我们把所有学到的知识结合到一起，完成一个综合的项目：多功能桌面小车。
 
@@ -441,6 +447,7 @@ M4位电机接线图
 ### 1.1、项目介绍
 
 ![](media/ae80c4ac2d601bf0e96ccb25ed872dcb.jpg)
+
 &ensp;&ensp;前面我们安装了keyes UNO R3开发板的驱动。接下来的项目我们就要由简单到复杂，一步一步探索Arduino的世界了。首先我们要来完成经典的“Arduino点亮LED”，也就是Blink项目。Blink对于学习Arduino的爱好者而言，是最基础的项目是新手必须经历的一个练习。
 
 &ensp;&ensp;LED，发光二极管的简称。由含镓（Ga）、砷（As）、磷（P）、氮（N）等的化合物制成。当电子与空穴复合时能辐射出可见光，因而可以用来制成发光二极管。在电路及仪器中作为指示灯，或者组成文字或数字显示。
