@@ -83,11 +83,12 @@
 |35|缠绕管 直径8MM 黑色|0.1|![](media/f1aa5a990fe76ca46f5bb2a2cd2f5048.png)|
 |36|黑色 扎带 3*100MM|10|![](media/96eb4a4646c8046640e703028eea0a03.png)|
 
+
 # 安装
 
-安装1
+## &ensp;1、电机安装
 
-安装所需零件
+&ensp;**安装所需零件**
 
 ![](media/033d18970bf304102206e927303d0a2b.jpg)
 
@@ -99,9 +100,9 @@
 
 ![](media/33f96206ee446acb0a0ab2aee573ff11.png)
 
-安装2
+## &ensp; 2、车轮与巡线传感器安装
 
-安装所需零件
+**安装所需零件**
 
 ![](media/beba8d7cf82259d10dd2118c34acbdd4.jpg)
 
@@ -121,9 +122,9 @@
 
 ![](media/f3d907c81fa9cc1d1e1a8c068ce9e7b1.png)
 
-安装3
+## &ensp; 3、点阵安装
 
-安装所需零件
+**安装所需零件**
 
 ![](media/7fa4adc60a817a664a375db3c3971d22.jpg)
 
@@ -139,21 +140,21 @@
 
 ![](media/ae322f7c241de633de576f357e10f807.png)
 
-安装4
+## &ensp; 4、M3x10铜柱安装
 
-安装所需零件
+**安装所需零件**
 
 ![](media/576d75f7d5f0cf559651be5d0941c83d.jpg)
 
-安装![](media/63fb70991411b6e2021e838ae0927f2a.jpg)
+安装<h1 ![](media/63fb70991411b6e2021e838ae0927f2a.jpg)
 
 完成
 
 ![](media/1cd17945211b3945621191807858feed.jpg)
 
-安装5
+## &ensp; 5、电池盒与红外接收安装
 
-安装所需零件
+**安装所需零件**
 
 ![](media/144e45fd96314667b367edb74a6636e0.jpg)
 
@@ -165,9 +166,9 @@
 
 ![](media/140f7d35c29af6bfd9e66dc9bd3c80b6.jpg)
 
-安装6
+## &ensp; 6、扩展板、UNO板与蓝牙安装
 
-安装所需零件
+**安装所需零件**
 
 ![](media/e70a4defd4a953bd38f978f192ebbcea.jpg)
 
@@ -179,9 +180,9 @@
 
 ![](media/4917e5af2a750e4f95b744a89beb0078.jpeg)
 
-安装7
+## &ensp; 7、舵机安装
 
-安装所需零件
+**安装所需零件**
 
 ![](media/af3f442b6a5b6474b7c58abdbd9fbd76.jpeg)
 
@@ -197,9 +198,9 @@
 
 ![](media/d8bf2dd41c971035e3dfb0fe0942849a.png)
 
-安装8
+## &ensp; 8、舵机固定
 
-安装所需零件
+**安装所需零件**
 
 ![](media/799e49bb5f613bc6e5de030ab398ce25.jpg)
 
@@ -211,9 +212,9 @@
 
 ![](media/f29b62cdb884798374bd97a5fd4e09ee.jpeg)
 
-安装9
+## &ensp; 9、整车安装
 
-安装所需零件
+**安装所需零件**
 
 ![](media/373d962abfec62dbd6fe1a6dd445758c.jpg)
 
@@ -225,7 +226,7 @@
 
 ![](media/3861efff7ab9f26d34a6c65c5a1ed78e.jpg)
 
-安装完成后进行接线
+## &ensp; 10、线材连接
 
 LED屏接线图
 
@@ -270,9 +271,6 @@ M4位电机接线图
 完成渲染效果图
 
 ![](media/7d4ed81db248c695e58569ce8ef9386d.jpeg)
-
-
-
 
 # Arduino
 
