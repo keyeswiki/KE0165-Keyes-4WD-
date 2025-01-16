@@ -19,7 +19,7 @@
 
 project = '4WD蓝牙多功能小车'
 copyright = 'keyes, WiKi'
-author = 'keyes'
+author = '科易互动机器人'
 
 # -- General configuration ---------------------------------------------------
 
