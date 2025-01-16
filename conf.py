@@ -69,9 +69,7 @@ html_theme = 'sphinx_book_theme'
 # 设置 html_sidebars，启用 localtoc 侧边栏  
 html_sidebars = {  
     '**': [  
-        'globaltoc.html',  # 可选，显示全局目录  
         'localtoc.html',   # 必需，显示文档内标题  
-        'searchbox.html'   # 可选，增加搜索框  
     ],  
 }  
 
