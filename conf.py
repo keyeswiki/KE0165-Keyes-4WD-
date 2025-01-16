@@ -17,17 +17,16 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'keyes WiKi'
-copyright = 'keyes , WiKi'
-author = 'keyes WiKi'
-copyright = 'Shenzhen keyes Technology Co., Ltd'
+project = 'ESP32 Starter Kit'
+copyright = 'keyestudio , WiKi'
+author = 'keyestudio WiKi'
 
 # -- General configuration ---------------------------------------------------
 
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['myst_parser','sphinx_copybutton']
+extensions = ["myst_parser","sphinx_copybutton"]
 
 source_suffix = {
     '.rst': 'restructuredtext',
