@@ -63,20 +63,21 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-# 使用 sphinx_rtd_theme 主题  
-html_theme = 'sphinx_book_theme'  
-
-# 设置 html_sidebars，启用 localtoc 侧边栏  
-html_sidebars = {  
-    '**': [  
-        'localtoc.html',   # 必需，显示文档内标题  
-    ],  
-}  
-
-# 配置 theme options  
+# 使用 sphinx_book_theme 主题  
+html_theme = "sphinx_book_theme"  
+# 配置左侧边栏，显示一级标题  
 html_theme_options = {  
-    'navigation_depth': 1,       # 只显示一级标题  
-    'collapse_navigation': False,  # 展开所有标题，不折叠  
+    "show_navbar_depth": 1,     # 局部导航栏显示标题深度（1 = 只显示一级标题）  
+    "collapse_navigation": True,  # 左侧折叠非当前展开的目录  
+    "toc_title": "文档目录",        # 左侧目录的标题（可自定义内容）  
+}  
+# 设置左侧栏包含局部目录  
+html_sidebars = {  
+    "**": [  
+        "navbar-logo.html",     # 顶部 Logo，默认提供  
+        "localtoc.html",        # 局部目录：显示当前文档的标题层级  
+        "searchbox.html"        # 搜索框  
+    ],  
 }
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
