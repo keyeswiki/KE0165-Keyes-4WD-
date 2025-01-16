@@ -1,7 +1,7 @@
 <center> <font size=48 face="微软雅黑"> 4WD蓝牙多功能智能车 </font> </center>
 
 
-# 资料下载
+# 1.资料下载
 
 [百度云下载](https://pan.baidu.com/s/1UrpxeiqYukAYB8UOSnjZFA) 
 
@@ -10,13 +10,15 @@
 
 [Gitee下载](https://gitee.com/keyeswiki/KE0165-Keyes-4WD/repository/archive/master.zip)
 
-# 产品介绍
+# 2.产品介绍
 
 ## 简介 
 
 &ensp;&ensp;4WD蓝牙多功能智能车,是基于ARDUINO的开源机器人，可以让孩子们轻松学习编程,并且获得有关电子，机械，控制逻辑和计算机科学的实践知识。
 
 &ensp;&ensp;他的安装和接线也十分简单，组件都通过螺钉和铜柱连接，只需要几个简单的步骤就可以组装完成。他提供了十多个编程的课程项目，由简单到复杂，一步一步，学习怎么去编写机器人能”听”懂的语言。
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1pT411w7UN&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## 特点 
 
@@ -104,7 +106,7 @@ DC座输入电压：7-12V
 |36|黑色 扎带 3*100MM|10|![](media/96eb4a4646c8046640e703028eea0a03.png)|
 
 
-# Arduino下载以及驱动安装
+# 3.Arduino下载以及驱动安装
 
 ## &ensp; 1、Arduino IDE安装
 
@@ -244,7 +246,7 @@ DC座输入电压：7-12V
 
 &ensp;&ensp;程序上传成功，板载的LED灯亮一秒钟，灭一秒钟，恭喜你的第一个程序完成了！
 
-# 智能车组装
+# 4.智能车组装
 
 ## &ensp;1、电机安装
 
@@ -436,7 +438,7 @@ M4位电机接线图
 
 
 
-# 项目课程
+# 5.项目课程
 
 &ensp;&ensp;好了，所有的东西都已经准备完毕，我们正式开始4WD蓝牙多功能小车的编程项目。前面我们从简单的传感器和模块开始，循序渐进完成模块传感器的测试项目，现在再来完成几个不同类型的机器人，最后我们把所有学到的知识结合到一起，完成一个综合的项目：多功能桌面小车。
 
@@ -3688,7 +3690,7 @@ void IIC_end()
 
 &ensp;&ensp;**注意**：利用安卓系统手机APP点击![](media/07774c50588977f9ab9398976b2be309.png)，测试语音控制时，不能实现语音控制功能。
 
-# 常见问题解答 
+# 6.常见问题解答 
 
 ## （1）小车无反应
 
