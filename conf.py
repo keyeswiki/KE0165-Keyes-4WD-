@@ -67,7 +67,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 html_theme = "sphinx_book_theme"  
 # 配置左侧边栏，显示一级标题  
 html_theme_options = {  
-    "show_navbar_depth": 1,     # 局部导航栏显示标题深度（1 = 只显示一级标题）  
+    "show_navbar_depth": 2,     # 局部导航栏显示标题深度（1 = 只显示一级标题）  
     "collapse_navigation": True  # 左侧折叠非当前展开的目录  
 }  
 
