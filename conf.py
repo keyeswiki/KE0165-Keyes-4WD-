@@ -68,17 +68,9 @@ html_theme = "sphinx_book_theme"
 # 配置左侧边栏，显示一级标题  
 html_theme_options = {  
     "show_navbar_depth": 1,     # 局部导航栏显示标题深度（1 = 只显示一级标题）  
-    "collapse_navigation": True,  # 左侧折叠非当前展开的目录  
-    "toc_title": "文档目录",        # 左侧目录的标题（可自定义内容）  
+    "collapse_navigation": True  # 左侧折叠非当前展开的目录  
 }  
-# 设置左侧栏包含局部目录  
-html_sidebars = {  
-    "**": [  
-        "navbar-logo.html",     # 顶部 Logo，默认提供  
-        "localtoc.html",        # 局部目录：显示当前文档的标题层级  
-        "searchbox.html"        # 搜索框  
-    ],  
-}
+
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
