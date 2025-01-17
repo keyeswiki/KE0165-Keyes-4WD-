@@ -1,0 +1,94 @@
+# 2.产品介绍
+
+## 简介 
+
+&ensp;&ensp;4WD蓝牙多功能智能车,是基于ARDUINO的开源机器人，可以让孩子们轻松学习编程,并且获得有关电子，机械，控制逻辑和计算机科学的实践知识。
+
+&ensp;&ensp;他的安装和接线也十分简单，组件都通过螺钉和铜柱连接，只需要几个简单的步骤就可以组装完成。他提供了十多个编程的课程项目，由简单到复杂，一步一步，学习怎么去编写机器人能”听”懂的语言。
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1pT411w7UN&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="800" height="450"></iframe>
+
+## 特点 
+
+&ensp;&ensp;1、功能多多：避障功能，跟随功能，红外遥控，蓝牙控制，循迹功能，显示图案等。   
+
+&ensp;&ensp;2、组装简单：无需焊接电路，只需几个简单的步骤即可组装该机器人。   
+
+&ensp;&ensp;3、结构坚固：构成车体的部分是PCB材质，电机用是优质的金属电机。   
+
+&ensp;&ensp;4、扩展性强：配置了电机驱动扩展板，可以扩展其他的传感器和模块。   
+
+&ensp;&ensp;5、多种控制：红外遥控器控制，手机遥控控制（苹果和安卓手机都可）。
+
+&ensp;&ensp;6、学习基础编程：使用Arduino IDE的C语言编程，可以接触底层代码。
+
+## 参数 
+
+工   作   电   压：DC5V
+
+DC座输入电压：7-12V
+
+最大输出电流：1A
+
+最大耗散功率：25W（T=75℃）
+
+电机转速：5V 63 rpm / min
+
+电机驱动形式：双路H桥驱动
+
+超声波感应角度：<15度
+
+超声波探测距离：2cm-400cm
+
+红外遥控距离：10米（实测）
+
+蓝牙遥控距离：50米（实测）
+
+蓝牙APP控制：支持Android和IOS系统
+
+
+
+## 清单 
+
+&ensp;&ensp;当收到这个智能车套件的时候，首先看到是一个包装精美的外盒，每个配件被安全且有序的装在外盒里面的小盒子里，先来清点一下：
+
+
+
+|No|Product Name|Quantity|Picture|
+|-|-|:-:|:-:|
+|1|keyes UNO R3 开发板|1|![](media/41febbb8cfc3ae5364b49000dcdb8ceb.png)|
+|2|4WD车前面LED屏亚克力挡板 |1|![](media/b296d5f8d848885351509a99f1cfa32c.png)|
+|3|Keyes brick L298P 电机驱动扩展板 V1|1|![](media/44633c7aaa094849aef1c22e768c21c0.png)|
+|4|Keyes Bluetooth-4.0 蓝牙4.0 V2|1|![](media/35f108a325e0c7f2dc457f625096bf04.png)|
+|5|HC-SR04超声波传感器|1|![](media/a82e0b04858293607bc584e695df960a.png)|
+|6|keyes 草帽LED白发红模块|1|![](media/6d28bad8054b51f5a372c69ebd829fa2.png)|
+|7|3Pin 双母头杜邦线 长20CM 2.54mm|2|![](media/b4ddab05e090b21b487d13e31049252e.jpg)|
+|8|Keyestudio 4WD 智能车 V3.0 PCB板(上板)|1|![](media/556f14b8b262dfb46a1cc22b177cad24.png)|
+|9|Keyestudio 4WD 智能车 V3.0 PCB板(下板)|1|![](media/e98b891d367500f5f30ec308c628033b.png)|
+|10|Keyes connectors 循迹传感器|1|![](media/6780dd9ed614a63a3862f503e39b3b7e.png)|
+|11|keyes brick 红外接收传感器|1|![](media/3068f78d805d90bcf552264d90bc9cdc.png)|
+|12|云台支架（黑色）配套 固定孔3MM|1|![](media/d58d578424a7bd7edbe7def2b12f207a.png)|
+|13|SG90 9G 舵机 |1|![](media/631f81ec352445decbc960cb0f2ffb71.png)|
+|14|18650双节电池盒|1|![](./media/cdd7772f9f8d57b8ecd4343ee260af10.png)|
+|15|6节5号电池盒|1|![](media/555d22894a55ad817d897c027bb1354f.png)|
+|16|keyestudio 8x16 LED灯板 |1|![](media/4b3b276b9242a386ec26a38cc48b6401.png)|
+|17|23*15*5MM 间距9MM 铝固定件 |1|![](media/6c6f63cac8bdc4a2703ce62a848f94e7.png)|
+|18|3mm D型孔 轮胎 |4|![](media/795653091dfcdb8999de6dcdfedef9d4.png)|
+|19|双通M3*10MM|8|![](media/0f39bf5bdd725664f1eb9800bac036b9.jpg)|
+|20|双通M3*40MM|6|![](media/0f39bf5bdd725664f1eb9800bac036b9.jpg)|
+|21|M3*30MM 圆头 十字|8|![](media/2f1c37b57da24c5dca9270e2034bbf2b.png)|
+|22|M3*6MM 圆头 十字|45|![](media/2f1c37b57da24c5dca9270e2034bbf2b.png)|
+|23|M3 镀镍|20|![](media/59e81b723727849fb41293d133d9ed0c.png)|
+|24|3*40MM 红黑色 十字螺丝刀|1|![](media/45ac53a3dbf17d26689376a0acdca12f.png)|
+|25|M2*8MM 圆头 十字|10|![](media/2f1c37b57da24c5dca9270e2034bbf2b.png)|
+|26|M2 镀镍|10|![](media/59e81b723727849fb41293d133d9ed0c.png)|
+|27|M3*10MM 平头|3|![](media/56ce68860a93c9c09aea792ebc8a22b2.png)|
+|28|4.5V 200转/分 马达|4|![](media/694190eedf4d6ecbf3e32c99ef08fee0.png)|
+|29|5P XH2.54转PH2.0 26AWG 线长200MM |1|![](media/629c330817b611385e9bf42cd92477fb.png)|
+|30|HX-2.54 3P 双头 26AWG 黑红白 100mm|1|![](media/b37001f0faf4c560aa90cde2f5847b55.png)|
+|31|HX-2.54 4P 双头 26AWG 黑棕白红 200mm |1|![](media/87744a43ad43910f7707b89103d625c3.png)|
+|32|HX-2.54 4P 转杜邦线母单 26AWG 黑红白棕 200mm|1|![](media/b289bdda58092c91ab7bbcff4eac9aa1.png)|
+|33|JMP-1 17键86*40*6.5MM|1|![](./media/866f3d85454db49eccb696c1e82a930d.png)|
+|34|USB线AM/BM 透明蓝 OD:5.0 L=50cm|1|![](media/cc34fb5df395dbef35dc9104522e767c.png)|
+|35|缠绕管 直径8MM 黑色|0.1|![](media/f1aa5a990fe76ca46f5bb2a2cd2f5048.png)|
+|36|黑色 扎带 3*100MM|10|![](media/96eb4a4646c8046640e703028eea0a03.png)|
