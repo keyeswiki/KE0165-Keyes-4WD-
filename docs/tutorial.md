@@ -622,7 +622,7 @@ HC-SR04超声波传感器像蝙蝠一样使用声纳来确定到物体的距离�
 
 ### 5.6、接线图
 
-&ensp;&ensp;**接线注意**：超声波传感器模块的VCC引脚连接至keyestudio V5
+&ensp;&ensp;**接线注意**：超声波传感器模块的VCC引脚连接至keyes V5
 &ensp;&ensp;传感器扩展板的5v(V)，Trig引脚至数字12(S)，Echo引脚至数字13(S)，Gnd引脚至Gnd(G)。
 
 ![](media/d659ce5f14906b5e8744fca2f359986d.png)
@@ -806,7 +806,7 @@ void loop() {
 
 ### 6.5、接线图
 
-&ensp;&ensp;**接线注意**：由于红外接收传感器输入的数字信号，将红外接收传感器模块的“-”、“+”和S引脚分别用导线连接到keyestudio传感器扩展板G（GND）、V（VCC）、A1，模拟口在数字口不够的情况下，模拟口也可以当数字口使用，模拟口A0相当于数字口14，A1相当于数字口15，以此类推。
+&ensp;&ensp;**接线注意**：由于红外接收传感器输入的数字信号，将红外接收传感器模块的“-”、“+”和S引脚分别用导线连接到keyes传感器扩展板G（GND）、V（VCC）、A1，模拟口在数字口不够的情况下，模拟口也可以当数字口使用，模拟口A0相当于数字口14，A1相当于数字口15，以此类推。
 
 ![](media/463e4394ec9e12cd1ae22d69007843ce.png)
 
@@ -1027,7 +1027,7 @@ void loop() {
 
 ![](media/29c5a8fc3e39ca5259f31baf812ef041.png)
 
-&ensp;&ensp;2、点击搜索，搜索keyestudio，下载搜索到的keyes BT car。
+&ensp;&ensp;2、点击搜索，搜索keyes，下载搜索到的keyes BT car。
 
 ![](media/04e623ed0a9df1c1b7e55cab2a945589.png)
 
@@ -1418,7 +1418,7 @@ void loop() {
 
 ![](media/678879eee681ffef1e455c9c9b8461f3.png)
 
-&ensp;&ensp;**接线注意**： 8x16 LED灯板的GND、VCC、SDA、SCL分别对应的接到keyestudio传感器扩展板-（GND）、+（VCC）、A4、A5进行两线串行通信。（注意：这里是接了arduino IIC的引脚，但是这个模块并不是IIC通讯的，是可以接任意两个引脚的。）
+&ensp;&ensp;**接线注意**： 8x16 LED灯板的GND、VCC、SDA、SCL分别对应的接到keyes传感器扩展板-（GND）、+（VCC）、A4、A5进行两线串行通信。（注意：这里是接了arduino IIC的引脚，但是这个模块并不是IIC通讯的，是可以接任意两个引脚的。）
 
 ### 9.6、项目代码
 
@@ -1509,7 +1509,7 @@ void IIC_end()
 
 ### 9.7、项目结果
 
-&ensp;&ensp;&ensp;在keyestudio V4.0开发板上传代码成功，按照接线图接线，拨码开关拨打到右端上电后，看一下，我们的显示屏上是不是显示了一个笑脸。
+&ensp;&ensp;&ensp;在keyes开发板上传代码成功，按照接线图接线，拨码开关拨打到右端上电后，看一下，我们的显示屏上是不是显示了一个笑脸。
 
 ![](media/d6e69a3fd6ba16c6dc0e34d9cbafdf48.png)
 

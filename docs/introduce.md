@@ -63,15 +63,15 @@ DC座输入电压：7-12V
 |5|HC-SR04超声波传感器|1|![](media/a82e0b04858293607bc584e695df960a.png)|
 |6|keyes 草帽LED白发红模块|1|![](media/6d28bad8054b51f5a372c69ebd829fa2.png)|
 |7|3Pin 双母头杜邦线 长20CM 2.54mm|2|![](media/b4ddab05e090b21b487d13e31049252e.jpg)|
-|8|Keyestudio 4WD 智能车 V3.0 PCB板(上板)|1|![](media/556f14b8b262dfb46a1cc22b177cad24.png)|
-|9|Keyestudio 4WD 智能车 V3.0 PCB板(下板)|1|![](media/e98b891d367500f5f30ec308c628033b.png)|
+|8|keyes 4WD 智能车 V3.0 PCB板(上板)|1|![](media/556f14b8b262dfb46a1cc22b177cad24.png)|
+|9|keyes 4WD 智能车 V3.0 PCB板(下板)|1|![](media/e98b891d367500f5f30ec308c628033b.png)|
 |10|Keyes connectors 循迹传感器|1|![](media/6780dd9ed614a63a3862f503e39b3b7e.png)|
 |11|keyes brick 红外接收传感器|1|![](media/3068f78d805d90bcf552264d90bc9cdc.png)|
 |12|云台支架（黑色）配套 固定孔3MM|1|![](media/d58d578424a7bd7edbe7def2b12f207a.png)|
 |13|SG90 9G 舵机 |1|![](media/631f81ec352445decbc960cb0f2ffb71.png)|
 |14|18650双节电池盒|1|![](./media/cdd7772f9f8d57b8ecd4343ee260af10.png)|
 |15|6节5号电池盒|1|![](media/555d22894a55ad817d897c027bb1354f.png)|
-|16|keyestudio 8x16 LED灯板 |1|![](media/4b3b276b9242a386ec26a38cc48b6401.png)|
+|16|keyes 8x16 LED灯板 |1|![](media/4b3b276b9242a386ec26a38cc48b6401.png)|
 |17|23*15*5MM 间距9MM 铝固定件 |1|![](media/6c6f63cac8bdc4a2703ce62a848f94e7.png)|
 |18|3mm D型孔 轮胎 |4|![](media/795653091dfcdb8999de6dcdfedef9d4.png)|
 |19|双通M3*10MM|8|![](media/0f39bf5bdd725664f1eb9800bac036b9.jpg)|
