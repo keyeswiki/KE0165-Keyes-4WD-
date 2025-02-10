@@ -17,16 +17,20 @@
 
 # -- Project information -----------------------------------------------------
 
-project = '4WD蓝牙多功能小车'
-copyright = 'keyes, WiKi'
-author = '科易互动机器人'
+project = 'keyes WiKi'
+copyright = 'keyes , WiKi'
+author = 'keyes WiKi'
+copyright = 'Shenzhen keyes Technology Co., Ltd'
+
+root_doc = "index"
+master_doc = "index"
 
 # -- General configuration ---------------------------------------------------
 
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ["myst_parser","sphinx_copybutton"]
+extensions = ['myst_parser','sphinx_copybutton']
 
 source_suffix = {
     '.rst': 'restructuredtext',
@@ -63,13 +67,11 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-# 使用 sphinx_book_theme 主题  
-html_theme = "sphinx_book_theme"  
-# 配置左侧边栏，显示一级标题  
-html_theme_options = {  
-    "show_navbar_depth": 2,     # 局部导航栏显示标题深度（1 = 只显示一级标题）  
-    "collapse_navigation": True  # 左侧折叠非当前展开的目录  
-}  
+#
+html_theme = 'sphinx_book_theme'
+html_theme_options = {
+  "show_toc_level": 3,
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
