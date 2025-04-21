@@ -9,4 +9,4 @@ sphinx-book-theme==0.0.42
 readthedocs-sphinx-search==0.1.0rc3
 Jinja2==2.11.2
 markupsafe==1.1.1
-markdown-it-py==3.0.0
+markdown-it-py==2.0.0
