@@ -11,3 +11,4 @@ Jinja2==2.11.2
 markupsafe==1.1.1
 markdown-it-py==0.4.5
 myst-parser==0.11.0
+mdit-py-plugins==0.4.2 
