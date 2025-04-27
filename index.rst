@@ -8,7 +8,7 @@
    docs/3.Arduino下载以及驱动安装.rst
    docs/4.智能汽车安装.rst
    docs/5.项目课程.rst
-   docs/6. 常见问题解答.rst
+   docs/6.常见问题解答.rst
 
 
 
