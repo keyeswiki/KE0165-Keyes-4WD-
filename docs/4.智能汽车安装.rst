@@ -147,7 +147,7 @@
    Servo myservo;  // 创建舵机对象
 
    void setup() {
-     myservo.attach();  // 将舵机信号线连接到数字引脚9（可以根据实际连接修改）
+     myservo.attach(9);  // 将舵机信号线连接到数字引脚9（可以根据实际连接修改）
      myservo.write(90);  // 设置舵机初始位置为90度
      
      delay(1000);  // 等待1秒让舵机有时间转动到指定位置
