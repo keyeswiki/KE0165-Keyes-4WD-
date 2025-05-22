@@ -1,8 +1,0 @@
-1.资料下载
-==========
-
-`百度云下载 <https://pan.baidu.com/s/1UrpxeiqYukAYB8UOSnjZFA>`__
-
-提取码：s85s
-
-`Gitee下载 <https://gitee.com/keyeswiki/KE0165-Keyes-4WD/repository/archive/master.zip>`__
