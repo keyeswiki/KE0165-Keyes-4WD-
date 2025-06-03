@@ -1,37 +1,6 @@
 
-.. note::
-
-    Hello, welcome to the SunFounder Raspberry Pi & Arduino & ESP32 Enthusiasts Community on Facebook! Dive deeper into Raspberry Pi, Arduino, and ESP32 with fellow enthusiasts.
-
-    **Why Join?**
-
-    - **Expert Support**: Solve post-sale issues and technical challenges with help from our community and team.
-    - **Learn & Share**: Exchange tips and tutorials to enhance your skills.
-    - **Exclusive Previews**: Get early access to new product announcements and sneak peeks.
-    - **Special Discounts**: Enjoy exclusive discounts on our newest products.
-    - **Festive Promotions and Giveaways**: Take part in giveaways and holiday promotions.
-
-    👉 Ready to explore and create with us? Click [|link_sf_facebook|] and join today!
-
-
 5. 项目课程
 ==================================================
-
-* |link_3_in_1_Starter_Kit|
-
-Thanks for choosing our |link_3_in_1_Kit|.
-
-.. note::
-    This document is available in the following languages.
-
-        * |link_german_tutorials|
-        * |link_jp_tutorials|
-        * |link_en_tutorials|
-    
-    Please click on the respective links to access the document in your preferred language.
-
-.. image:: img/3in_kit_r4.png
-    :width: 800
 
 When you bought a learning kit online, did it come with a simple PDF or booklet with only the steps to build the project?
 
@@ -61,13 +30,3 @@ If you have any questions or other interesting ideas, feel free to send an email
     thank-learning
 
 Copyright Notice
------------------------
-
-All contents including but not limited to texts, images, and code in this manual are owned by the SunFounder Company. You should only use it for personal study, investigation, enjoyment, or other non-commercial or nonprofit purposes, under the related regulations and copyrights laws, without infringing the legal rights of the author and relevant right holders. For any individual or organization that uses these for commercial profit without permission, the Company reserves the right to take legal action.
-
-.. include:: test/test.rst
-此页面的语言为英语
-翻译为中文（简体） 
-随时将英语翻译为中文（简体）
-一律不翻译英语
-一律不翻译raw.githubusercontent.com
