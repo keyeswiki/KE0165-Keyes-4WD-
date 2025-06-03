@@ -5,7 +5,7 @@
 
    docs/产品介绍
    docs/arduino/arduino教程
-   docs/mixly/mixly教程
+   docs/mixly/Mixly教程
    docs/kidsblock/kidsblock教程
 
 
