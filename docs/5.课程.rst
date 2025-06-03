@@ -19,14 +19,7 @@ If you have any questions or other interesting ideas, feel free to send an email
 .. toctree::
     :maxdepth: 2
 
-    About this Kit <self>
-    components/component_list
-    arduino_start/get_start
-    download_code
-    basic_project/basic_project
-    car_project/car_project
-    iot_project/iot_project
-    project/课程1
+    projects/课程1
     thank-learning
 
 Copyright Notice
