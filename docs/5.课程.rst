@@ -5,7 +5,7 @@
 
 .. toctree::
     :maxdepth: 2
-
+    :caption: KE0165 Keyes 4WD蓝牙多功能智能小车
 
     project/课程1
     project/课程2
