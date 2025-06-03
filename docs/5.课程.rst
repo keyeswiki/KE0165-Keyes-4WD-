@@ -1,25 +1,27 @@
 
 5. 项目课程
-==================================================
+================
+项目课程提供了一个系统的学习路径，涵盖了从基础到进阶的多种 Arduino 项目。与开发环境安装和智能车安装相比，项目课程强调综合应用和创造性思维。您将通过实践各种项目，深入理解 Arduino 的控制方法和组件使用。这一部分不仅巩固所学知识，还激发您探索更多可能性，与其他项目相比，它更加多样化和富有挑战性。
 
-When you bought a learning kit online, did it come with a simple PDF or booklet with only the steps to build the project?
-
-Or maybe you want to build your own smart car, but the ones you find online are pricey and complicated？
-
-Or have you seen useful and interesting IoT projects made by others, but have no idea where to start?
-
-All these problems can be solved with our 3 in 1 starter kit.
-
-In the 3-in-1 starter kit, you will find a complete Arduino course to help beginners learn Arduino, as well as a wide variety of interesting projects that other learning kits do not offer, such as smart car projects and IoT projects. You will master Arduino as long as you follow the kit's course step by step, instead of just copying and pasting code, you will write your own code and implement your Arduino project however you like.
-
-Come on! Start programing Arduino with confidence from zero to hero!
-
-If you have any questions or other interesting ideas, feel free to send an email to service@sunfounder.com.
-    
 .. toctree::
     :maxdepth: 2
 
-    projects/课程1
-    thank-learning
 
-Copyright Notice
+    projects/课程1
+    projects/课程2
+    projects/课程3
+    projects/课程4
+    projects/课程5
+    projects/课程6
+    projects/课程7
+    projects/课程8
+    projects/课程9
+    projects/课程10
+    projects/课程11
+    projects/课程12
+    projects/课程13
+    projects/课程14
+    projects/课程15
+    projects/课程16
+    projects/课程17
+    
