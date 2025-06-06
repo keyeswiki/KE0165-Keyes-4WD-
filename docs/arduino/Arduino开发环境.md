@@ -92,7 +92,7 @@ ARDUINO UNO R3开发板是我们最新推出的一款易用型开源控制器，
 
 2.点击Arduino IDE菜单栏的文件（File）>首选项（Preference），弹出如下窗口
 
-![img](media/wps2.jpg) 
+![img](../media/wps2.jpg) 
 
 3.点击“浏览”，选择“Arduino”文件夹，打开“libraries”文件夹，把文件拖进去。
 
